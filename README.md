@@ -1,7 +1,6 @@
-Gech SE, [11/24/2025 4:19 PM]
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Getabalew Kemaw
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Abel Alelign
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;laravel+Spring-boot+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -11,15 +10,15 @@ Gech SE, [11/24/2025 4:19 PM]
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-const getabalewKemaw = {
+const abelAlelign = {
     location: "DebreBerhan Ababa, Ethiopia 🇪🇹",
     role: "Full-Stack Developer",
     experience: "1 years",
     availability: "Open to remote & freelance opportunities",
     passion: ["Clean Code", "Scalable Architecture", "User Experience"],
     currentFocus: "Building next-generation web applications,BackendDevelopment using laravel",
-    contact: "getabalewkemaw@gmail.com",
-    portifolio:"getabalewkemaw.vercel.app
+    contact: "abelalelign@gmail.com",
+    portifolio:"abelalelign.vercel.app
 };
 
 <div align="center">
@@ -59,10 +58,10 @@ const getabalewKemaw = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🚀 E-Commerce Platform | Full-stack e-commerce solution with admin dashboard | React, Node.js, MongoDB, Stripe | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 📱 Task Management App | Real-time collaborative task management with drag & drop | Next.js, TypeScript, Prisma, PostgreSQL | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 🎨 Portfolio Website | Responsive portfolio with smooth animations | React, Framer Motion, Tailwind CSS | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
-| 🔐 Authentication System | Secure JWT-based auth with social login | Node.js, Express, MongoDB, Passport.js | [Demo](https://github.com/getabalewKemaw) • [Code](https://github.com/getabalewKemaw) |
+| 🚀 E-Commerce Platform | Full-stack e-commerce solution with admin dashboard | React, Node.js, MongoDB, Stripe | [Demo](https://github.com/abelAlelign) • [Code](https://github.com/abelAlelign) |
+| 📱 Task Management App | Real-time collaborative task management with drag & drop | Next.js, TypeScript, Prisma, PostgreSQL | [Demo](https://github.com/abelAlelign) • [Code](https://github.com/abelAlelign) |
+| 🎨 Portfolio Website | Responsive portfolio with smooth animations | React, Framer Motion, Tailwind CSS | [Demo](https://github.com/abelAlelign) • [Code](https://github.com/abelAlelign) |
+| 🔐 Authentication System | Secure JWT-based auth with social login | Node.js, Express, MongoDB, Passport.js | [Demo](https://github.com/abelAlelign) • [Code](https://github.com/abelAlelign) |
 
 </div>
 
@@ -72,18 +71,17 @@ const getabalewKemaw = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Analytics
 
-Gech SE, [11/24/2025 4:19 PM]
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getabalewKemaw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getabalewKemaw&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelAlelign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelAlelign&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getabalewKemaw&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelAlelign&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getabalewKemaw&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelAlelign&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -93,10 +91,10 @@ Gech SE, [11/24/2025 4:19 PM]
 <div align="center">
 
 ### 🏆 LeetCode Progress
-<img src="https://leetcard.jacoblin.cool/getabalewKemaw?ext=heatmap&border=0&radius=10&theme=unicorn" alt="LeetCode card" />
+<img src="https://leetcard.jacoblin.cool/abelAlelign?ext=heatmap&border=0&radius=10&theme=unicorn" alt="LeetCode card" />
 
 ### 📊 Coding Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=getabalewKemaw&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=abelAlelign&theme=dark)
 
 </div>
 
@@ -118,11 +116,11 @@ Recent LeetCode Activity:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/getabalew-kemaw)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getabalewKemaw)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/getabalewKemaw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getabalewkemaw@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://getabalewkemaw.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abel-alelign)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abelAlelign)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abelAlelign)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelalelign@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abelalelign.vercel.app)
 
 </div>
 
@@ -176,7 +174,6 @@ DevOps & Cloud
 
 <div align="center">
 
-Gech SE, [11/24/2025 4:19 PM]
 const funFacts = {
     🌍 languages: ["English", "Amharic", "JavaScript", "TypeScript"],
     ☕️ fuelledBy: "Coffee and curiosity",
@@ -198,9 +195,9 @@ const funFacts = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=getabalewKemaw&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/getabalewKemaw?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/getabalewKemaw?label=Stars&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=abelAlelign&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/abelAlelign?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/abelAlelign?label=Stars&style=for-the-badge&color=yellow)
 
 </div>
 
